@@ -1,0 +1,76 @@
+<?php
+
+return [
+    'how are us'=>'who are us ',
+    'visit us in our location in any time'=>'visit us in our location in any time',
+    'know more'=>'know more',
+    'contact us'=>'contact us',
+    'Products'=>'products',
+    'projects'=>'projects',
+    'main'=>'main',
+    'about us'=>'about us',
+    'hostels'=>'hostels',
+    'offices and companies'=>'offices and companies',
+    'places and towers'=>'places and towers',
+    'message us in any time!'=>'message us in any time!',
+    'main header title'=>'re new your house with us . make it more better and smarter',
+    'we are commit to make 1st for decour has the trust trow butting the hiest othity in work'=>'we are commit to make 1st for decour has the trust trow butting the hiest othity in work',
+    'Pre order now'=>'Pre order now',
+    'Get in touch'=>'Get in touch',
+    'Our vision'=>'Our vision',
+    'our products'=>'products',
+    'paper wall'=>'paper wall',
+    'sejad'=>'sejad',
+    'qumash'=>'qumash',
+    '1st for decor'=>'1st for decor',
+    'vision'=>'We are committed to making FFD a reliable and trustful company by abiding to the highest level of ethics, integrity and dedication.We aim at providing specialized and diverse solutions that will enable our clients to achieve their renovation and decoration objectives.',
+    'who us'=>'First for Decoration is a leader in the field of upscale interiors renovation materials. We specialize in managing the full lifecycle of the renovation process, from creative decoration and furnishing, to post completion aftercare. First for Decoration has been founded in 1982.',
+    'firstfordecor'=>'1st For Decoration is an exclusive prestige firm, specializing in upscale interior products since 1982. Managing full cycle of high end interior design and turnkey building projects.',
+
+    //=============================================================================
+
+
+
+    'Why Us ?'=>'Why Us ?',
+    'Loading...'=>'Loading...',
+    'WHY Choose 1stdecor Creative ?'=>'WHY Choose 1stdecor Creative ?',
+    'LATEST NEWS'=>'LATEST NEWS',
+    'New office desining around the world'=>'New office desining around the world',
+    'Comments'=>'Comments',
+    'Views'=>'Views',
+    'new materials in our stores'=>'new materials in our stores',
+    'products text'=>'out products is one of the best products over the world we give you pretty and good prod',
+    'a little about our products'=>'a little about our products',
+    'more_of_products'=>'',
+    'our products power full comming from'=>'our products power full comming from',
+    'mokeet'=>'mokeet',
+    'qutton'=>'natural qutton',
+    'basic materials'=>'basic materials',
+    'Customer Support'=>'Customer Support',
+    'after sale service'=>'after sale service',
+    'Happy Customers'=>'Happy Customers',
+    'Ordered completed'=>'Ordered completed',
+    'Awards Win'=>'Awards Win',
+    'show romes'=>'show romes',
+    'Portfolio'=>'Portfolio',
+    'speak1'=>'one of the oldest and best companies in the saudi arabia and the mid gulf over all',
+    'mohammed gaffer'=>'mohammed gaffer',
+    'speak2'=>'i was work with them and i suggest any one to work with them thy are the best in saudi arabia',
+    'marwan gaffer'=>'marwan gaffer',
+    'speak3'=>'i enjoining with working with them they have the more newist things in the work and i found what i loking for in thim',
+    'tota gaffet'=>'tota gaffet',
+    'order now'=>'order now',
+    'parteners'=>'parteners',
+    'extra text'=>'extra text',
+    'Portfolio Work'=>'Portfolio Work',
+    'contact us section'=>'we are always happy with your contact in any time',
+    'Our Location Maps'=>'Our Location Maps',
+    'Contact Details'=>'Contact Details',
+    'contact us text'=>'please fill the form below and feel free to contact with us in any ideas or suggestions from your site we always keep our clients in the fist place and yur notes are very importance to us to continue our grate work and get your trust in our products  ',
+    'Our Best Work'=>'Our Best Work',
+    'from our best work'=>'from our best work'
+
+
+
+
+];
