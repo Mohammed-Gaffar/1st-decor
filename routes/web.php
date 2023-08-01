@@ -20,9 +20,9 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 
 Route::group([ 'prefix' => LaravelLocalization::setLocale(),'middleware' => [ 'localeSessionRedirect', 'localizationRedirect', 'localeViewPath',] ], function(){
 
-    Route::get('/','HomeController@new')->name('index');
+    Route::get('/','HomeControler@new')->name('index')
 
-    Route::get('/test2','HomeController@test2')->name('index2');
+    Route::get('/test2','HomeControler@test2')->name('index2')
 
 });
 
